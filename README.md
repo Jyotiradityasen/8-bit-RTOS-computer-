@@ -60,7 +60,6 @@ The control signals for every instruction are stored as **microcode** on memory 
 | Control Unit | Microcode-driven; generates the control signals for each step |
 | Output | Drives the display so results are human-readable |
 
-> **Note:** fill in the exact specs once you confirm them — clock speed, RAM size (e.g. 16 bytes), number of instructions in the instruction set, and total chip count. Recruiters and interviewers love concrete numbers.
 
 ---
 
@@ -89,9 +88,6 @@ program.asm  ──►  assembler (Python)  ──►  machine code  ──►  
 ├── docs/           # Photos and documentation
 └── README.md
 ```
-
-> Adjust this to match your actual folder names.
-
 ---
 
 ## Getting started
@@ -103,8 +99,6 @@ program.asm  ──►  assembler (Python)  ──►  machine code  ──►  
 # 2. Flash it onto the hardware
 ./scripts/flash.sh
 ```
-
-> Replace with your real commands once the repo is organized.
 
 ---
 
