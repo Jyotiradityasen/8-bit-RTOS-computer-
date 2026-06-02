@@ -1,11 +1,10 @@
-<img width="1532" height="1047" alt="computer" src="https://github.com/user-attachments/assets/754e1403-2a4e-4a62-a347-70813aec3319" />
+
 # 8-Bit Breadboard Computer
 
 > A fully functional 8-bit computer built from scratch using discrete 7400-series logic chips — no microprocessor, no shortcuts. Includes a custom assembler and an automated build-and-flash toolchain.
 
 <p align="center">
-  <img src="docs/computer.png" alt="8-bit breadboard computer with logic chips, jumper wires, and LED status indicators" width="100%">
-</p>
+<img width="1532" height="1047" alt="computer" src="https://github.com/user-attachments/assets/754e1403-2a4e-4a62-a347-70813aec3319" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square" alt="C++">
